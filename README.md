@@ -1,7 +1,11 @@
-ESP-IDF template app
+Micromouse Mouse with ESP32
 ====================
 
-This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
+** Team: Jerry Lee, Jigar Hira, Dylan Kao, Lifeng Liang **
+** University of California, Irvine **
+** Year: 2018 - 2019 **
+
+This is a application to be used with template from [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
 
 Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
 
