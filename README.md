@@ -1,9 +1,9 @@
 Micromouse Mouse with ESP32
 ====================
 
-** Team: Jerry Lee, Jigar Hira, Dylan Kao, Lifeng Liang **
-** University of California, Irvine **
-** Year: 2018 - 2019 **
+## Team: Jerry Lee, Jigar Hira, Dylan Kao, Lifeng Liang ##
+## University of California, Irvine ##
+## Year: 2018 - 2019 ##
 
 This is a application to be used with template from [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
 
