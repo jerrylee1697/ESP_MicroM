@@ -15,7 +15,7 @@
 
 typedef struct
 {
-	unsigned int walls[MAZE_WIDTH + 1][MAZE_HEIGHT + 1];	/* Two dimensional array for the walls */
+	unsigned int walls[2* MAZE_WIDTH * (MAZE_WIDTH + 1)];	/* One dimensional array for the walls (first half for horizontal walls and second half for vertical walls) */
 	unsigned int cells[MAZE_WIDTH][MAZE_WIDTH];		/* Two dimensional array for the cells */
 	unsigned int mouseX, mouseY;				/* Mouse coordinates */
 	unsigned int mouseDirection;				/* Mouse direction */
